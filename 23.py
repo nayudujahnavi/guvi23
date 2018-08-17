@@ -1,5 +1,5 @@
 n=int(input())
 arr=input()
 l=list(map(int,arr.split(' '))
-n=len(l)
+n =len(l)
 print(min(l))
